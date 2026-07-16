@@ -1,3 +1,5 @@
 *.nc
 .ipynb_checkpoints/
-gmom*
+CESM/gmom*
+GFDL/
+PCMDI/
